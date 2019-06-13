@@ -1,0 +1,9 @@
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu4\exemplu4\obj\Debug\exemplu4.Form1.resources
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu4\exemplu4\obj\Debug\exemplu4.Properties.Resources.resources
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu4\exemplu4\obj\Debug\exemplu4.csproj.GenerateResource.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu4\exemplu4\obj\Debug\exemplu4.csproj.CoreCompileInputs.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu4\exemplu4\bin\Debug\exemplu4.exe.config
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu4\exemplu4\bin\Debug\exemplu4.exe
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu4\exemplu4\bin\Debug\exemplu4.pdb
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu4\exemplu4\obj\Debug\exemplu4.exe
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu4\exemplu4\obj\Debug\exemplu4.pdb

@@ -1,0 +1,17 @@
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\MainWindow.g.cs
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\WelcomeWindow.g.cs
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\App.g.cs
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\lab5_MarkupCompile.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\lab5_MarkupCompile.lref
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\MainWindow.baml
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\WelcomeWindow.baml
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\lab5.g.resources
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l5\lab5\lab5\obj\Debug\lab5.pdb

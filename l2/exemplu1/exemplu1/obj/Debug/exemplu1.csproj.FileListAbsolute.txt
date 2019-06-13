@@ -1,0 +1,10 @@
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu1\exemplu1\bin\Debug\exemplu1.exe.config
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu1\exemplu1\bin\Debug\exemplu1.exe
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu1\exemplu1\bin\Debug\exemplu1.pdb
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu1\exemplu1\obj\Debug\exemplu1.csprojAssemblyReference.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu1\exemplu1\obj\Debug\exemplu1.Form1.resources
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu1\exemplu1\obj\Debug\exemplu1.Properties.Resources.resources
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu1\exemplu1\obj\Debug\exemplu1.csproj.GenerateResource.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu1\exemplu1\obj\Debug\exemplu1.csproj.CoreCompileInputs.cache
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu1\exemplu1\obj\Debug\exemplu1.exe
+C:\Users\campe\Desktop\Partea Intelectuala\Facultate\An3\Sem2\II\l2\exemplu1\exemplu1\obj\Debug\exemplu1.pdb
